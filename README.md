@@ -27,7 +27,12 @@ Aquí tienes algunas de las tecnologías con las que trabajo:
 
 [![Estadísticas de Chewi9](https://github-readme-stats-eight-theta.vercel.app/api?username=Chewi9&show_icons=true&theme=radical&hide_border=true)](https://github.com/Chewi9)
 
+<div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chewi9&theme=radical&hide_border=true" alt="Racha de contribuciones de Chewi9" />
+</div>
+
 ---
 
-### 📫 ¿Cómo contactar conmigo?
--💼 [LinkedIn](#) *https://www.linkedin.com/in/hugo-herrero-gonzalez-528636333/*
+### 📫 Conecta conmigo:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-herrero-gonzalez-528636333/)
