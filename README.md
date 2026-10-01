@@ -1,12 +1,13 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=¡Hola,+soy+Chewi9!;Bienvenido+a+mi+perfil" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=¡Hello,+I'm+Chewi9!;Welcome+to+my+profile" alt="Typing SVG" />
 </div>
 
 
-### 👨‍💻 Sobre Mí
-- 🔭 Actualmente estoy trabajando en diferentes proyectos.
-- 🌱 Aprendiendo y mejorando cada día en el desarrollo de software.
-- ⚡ En este perfil comparto mi viaje por el código y mis proyectos.
+### 👨‍💻 About me
+- 🔭 Currently working on a few different projects.
+- 🌱 Learning, improving, and getting better at software development every day.
+- ⚡ Sharing my coding journey and the projects I work on here.
+
 
 ---
 
@@ -47,7 +48,7 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 Statistics of GitHub
 
 <div align="center">
   <picture>
@@ -64,6 +65,6 @@
 
 ---
 
-### 📫 Conecta conmigo:
+### 📫 Contact me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-herrero-gonzalez-528636333/)
