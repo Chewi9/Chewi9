@@ -63,6 +63,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chewi9&theme=radical&hide_border=true" alt="Racha de contribuciones de Chewi9" />
 </div>
 
+![Vistas de mi perfil](https://komarev.com/ghpvc/?username=Chewi9&color=blue&style=flat-square)
+
 ---
 
 ### 📫 Contact me
